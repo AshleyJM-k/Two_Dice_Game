@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cis.two_dice_pig.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-17T17:40:00" hostname="DESKTOP-G7TN2VI" time="0.003">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="com.cis.two_dice_pig.ExampleUnitTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

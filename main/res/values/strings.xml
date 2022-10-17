@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+        <resources>
+
+    <string name="app_name">Two_Dice</string>
+
+    <string name="rollButtonText">Roll</string>
+
+    <string name="hold"> Hold</string>
+
+    <string name="p1Total">Player 1 Total</string>
+
+    <string name="p2Total">Player 2 Total</string>
+
+</resources>
